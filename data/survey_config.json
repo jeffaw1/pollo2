@@ -1,0 +1,10 @@
+{
+  "totalPages": 25,
+  "models": ["TRAM", "ScoreHMR", "NIKI", "SMPLER-X"],
+  "questions": [
+    "Which model demonstrates the smoothest motion across frames?",
+    "Which model appears to be the most accurate in terms of pose estimation?",
+    "Which model best captures the subtle details of human movement?",
+    "Which model seems to handle complex poses or movements most effectively?"
+  ]
+}
